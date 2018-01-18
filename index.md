@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 知识库!
-tagline: Supporting tagline
+title: 知识库
 ---
-{% include JB/setup %}
+
 
